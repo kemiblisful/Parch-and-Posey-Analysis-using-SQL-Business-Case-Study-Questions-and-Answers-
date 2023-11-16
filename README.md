@@ -40,7 +40,7 @@ The Parch and Posey's data company’s database contains these four tables
 
 ---
 ## Business Case Study Questions and Answers
-- [Solution](https://github.com/kemiblisful/Parch-and-Posey-Analysis-using-SQL-Business-Case-Study-Questions-and-Answers-/edit/readme.md/README.md#business-case-study-questions-and-answers)
+- [Solution](https://github.com/kemiblisful/Parch-and-Posey-Analysis-using-SQL-Business-Case-Study-Questions-and-Answers-/commit/aa2e02605e4abb74206752c3357235e865c0d153?diff=unified)
 
 
 ---

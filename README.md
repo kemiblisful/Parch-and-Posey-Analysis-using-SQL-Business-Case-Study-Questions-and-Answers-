@@ -6,6 +6,8 @@
 - [Tools](#Tools)
 - [Business Case Study Questions and Answers](#business-case-study-questions-and-answers)
 - [Discussion and Recommendation](#)
+- [Visuals](#visuals)
+---
 
 ## Overview
 Parch & Posey is an American company that specializes in selling paper products. It has a total of 50 sales representatives operating across four regions in the United States. The company offers three types of paper: Standard Paper, Gloss Paper, and Poster Paper. 
@@ -59,6 +61,17 @@ The Parch and Posey's data company’s database contains these four tables
 6.	It is important to show appreciation to certain companies on special occasions in order to maintain their loyalty. These are groups of customers who have already reached a high level of loyalty and do not require additional advertisements. Instead, efforts should be directed towards companies that are not performing as well. Targeted advertisements and reminder programs can help increase purchases from these companies. 
 
 7.	Recognize and reward high-performing Sales reps in terms of top sales and orders. Analyze the strategies used by them to identify best practices for the team. Provide support or training to managers with lower sales and profits to improve their performance. 
+
+---
+## Visuals 
+
+![image](https://github.com/kemiblisful/Parch-and-Posey-Analysis-using-SQL-Business-Case-Study-Questions-and-Answers-/assets/143101113/22b689ff-dd28-4c6f-beda-7cbed8d3e2e1) 
+
+---
+
+![image](https://github.com/kemiblisful/Parch-and-Posey-Analysis-using-SQL-Business-Case-Study-Questions-and-Answers-/assets/143101113/f0895891-d989-4d98-b16c-571b2b62335d)
+
+---
 
 
 

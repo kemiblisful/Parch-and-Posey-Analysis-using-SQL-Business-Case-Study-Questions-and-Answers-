@@ -71,7 +71,6 @@ The Parch and Posey's data company’s database contains these four tables
 
 ![image](https://github.com/kemiblisful/Parch-and-Posey-Analysis-using-SQL-Business-Case-Study-Questions-and-Answers-/assets/143101113/f0895891-d989-4d98-b16c-571b2b62335d)
 
----
 
 
 
